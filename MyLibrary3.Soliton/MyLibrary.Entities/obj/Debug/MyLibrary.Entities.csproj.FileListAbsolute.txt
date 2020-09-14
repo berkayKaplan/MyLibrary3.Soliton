@@ -1,0 +1,6 @@
+C:\Users\berka\OneDrive\Masaüstü\projelerim\MyLibrary3.Soliton\MyLibrary.Entities\bin\Debug\MyLibrary.Entities.dll
+C:\Users\berka\OneDrive\Masaüstü\projelerim\MyLibrary3.Soliton\MyLibrary.Entities\bin\Debug\MyLibrary.Entities.pdb
+C:\Users\berka\OneDrive\Masaüstü\projelerim\MyLibrary3.Soliton\MyLibrary.Entities\obj\Debug\MyLibrary.Entities.csprojAssemblyReference.cache
+C:\Users\berka\OneDrive\Masaüstü\projelerim\MyLibrary3.Soliton\MyLibrary.Entities\obj\Debug\MyLibrary.Entities.csproj.CoreCompileInputs.cache
+C:\Users\berka\OneDrive\Masaüstü\projelerim\MyLibrary3.Soliton\MyLibrary.Entities\obj\Debug\MyLibrary.Entities.dll
+C:\Users\berka\OneDrive\Masaüstü\projelerim\MyLibrary3.Soliton\MyLibrary.Entities\obj\Debug\MyLibrary.Entities.pdb
